@@ -9,6 +9,8 @@ and [android-retrostreams](https://github.com/retrostreams/android-retrostreams)
 
 Other than having a different package name this code has no further changes compared with [streamsupport-atomic](https://sourceforge.net/p/streamsupport/code/ci/default/tree/src/atomic/)
 
+Online Javadoc is available at [docs](https://retrostreams.github.io/android-retroatomic/apidocs/index.html)
+
 Please give feedback [here](https://github.com/retrostreams/android-retroatomic/issues) if you experience any problems.
 
 

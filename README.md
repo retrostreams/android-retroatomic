@@ -6,6 +6,10 @@ android-retroatomic is a backport of the java.util.concurrent.atomic classes add
 
 There is nothing specific to Android or the desugar toolchain in this code (it could even be compiled to Java 6 bytecode) but it has a dependency on [android-retrostreams](https://github.com/retrostreams/android-retrostreams) which is why this exists as a separate component (the corresponding [streamsupport-atomic](https://sourceforge.net/p/streamsupport/code/ci/default/tree/src/atomic/) component can't be used with android-retrostreams).
 
+Other than having a different package name this code has no changes compared with [streamsupport-atomic](https://sourceforge.net/p/streamsupport/code/ci/default/tree/src/atomic/)
+
+Please give feedback [here](https://github.com/retrostreams/android-retroatomic/issues) if you experience any problems.
+
 
 ## LICENSE
 

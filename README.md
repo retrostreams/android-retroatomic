@@ -18,7 +18,7 @@ Please give feedback [here](https://github.com/retrostreams/android-retroatomic/
 
 ```gradle
 dependencies {
-    compile 'net.sourceforge.streamsupport:android-retroatomic:1.6.0'
+    compile 'net.sourceforge.streamsupport:android-retroatomic:1.6.1'
 }
 ```
 

@@ -1,4 +1,5 @@
 [![Maven Central](https://img.shields.io/maven-central/v/net.sourceforge.streamsupport/android-retroatomic.svg)](http://mvnrepository.com/artifact/net.sourceforge.streamsupport/android-retroatomic)
+[![javadoc.io](https://javadocio-badges.herokuapp.com/net.sourceforge.streamsupport/android-retroatomic/badge.svg)](http://www.javadoc.io/doc/net.sourceforge.streamsupport/android-retroatomic/)
 
 # android-retroatomic
 

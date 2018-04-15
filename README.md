@@ -22,7 +22,7 @@ Please give feedback [here](https://github.com/retrostreams/android-retroatomic/
 
 ```gradle
 dependencies {
-    compile 'net.sourceforge.streamsupport:android-retroatomic:1.6.1'
+    compile 'net.sourceforge.streamsupport:android-retroatomic:1.6.2'
 }
 ```
 
